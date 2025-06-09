@@ -60,19 +60,15 @@ Each route configuration is an array with:
 
 The provider uses two key variables:
 ```php
-$routeName = $options['route_name'] ?? $name;  // For route names and POST URLs
-$routeUrl = 'admin/' . $name;                  // For GET URLs
+$routeName = $options['route_name'] ?? $name;  // For merging the urls
+$routeUrl = 'admin/' . $name;                  // For URLs
 ```
-
-URL Generation Rules:
-- GET requests: Uses `$routeUrl` (includes 'admin' prefix)
-- POST requests: Uses `$routeName` (no prefix)
 
 Example:
 ```php
 // For a resource named 'articles':
 GET admin/articles/index  -> articles.index
-POST articles/store      -> articles.store
+POST admin/rticles/store      -> articles.store
 ```
 
 ### 5. Custom Route Configuration
