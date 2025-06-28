@@ -102,3 +102,5 @@ php artisan serve
 ```
 > Happy Coding 🙂🙂🙂  
 > Contact me if you have any queries.
+
+<sub><p align="center">📘 This repository and its documentation were prepared and maintained by <a href="https://github.com/MeSafal/" target="_blank"><u><strong>Gokul Subedi</strong></u></a>. For the latest updates and related projects, visit <a href="https://github.com/MeSafal" target="_blank">github.com/MeSafal</a>.</p></sub>
