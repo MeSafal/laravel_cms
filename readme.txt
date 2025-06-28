@@ -52,3 +52,4 @@ Generate complete CRUD for a table:
 ```bash
 php artisan crud:generate blogs
 php artisan crud:delete blogs
+

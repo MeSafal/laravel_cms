@@ -100,6 +100,17 @@ php artisan key:generate
 php artisan migrate
 php artisan serve
 ```
+---
+
+## 🤝 License & Contribution
+
+© All rights reserved by [Gokul Subedi](https://github.com/mesafal). This project is closed-source.
+
+Got ideas, feedback, or want to collaborate? I’m open to meaningful contributions and discussions.  
+Reach out via [GitHub](https://github.com/meSafal) or email at [subedigokul119@gmail.com](mailto:subedigokul119@gmail.com).
+
+---
+
 > Happy Coding 🙂🙂🙂  
 > Contact me if you have any queries.
 
